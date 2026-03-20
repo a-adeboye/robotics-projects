@@ -33,13 +33,15 @@ It documents my **progress, code experiments, and personal notes** as I learn ro
 ---
 
 ## 📂 Repository Structure
+
+```
 robotics-projects/
 │
 ├─ exercises/ # Python scripts and notebooks from the book exercises
 ├─ simulations/ # Simulation-based projects (PyBullet, Matplotlib visualizations)
 ├─ notes/ # Personal notes, observations, and tips
 └─ README.md # This file
-
+```
 
 
 ---
